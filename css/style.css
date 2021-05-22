@@ -247,13 +247,13 @@ span.login__check{
 	position: absolute;
 	bottom: 0;
 	overflow-y: scroll;
-	padding: 28px 16px 48px 16px;
+	padding: 28px 16px 16px 16px;
 }
 
 .content__menu{
 	height: 48px;
 	width: 100%;
-	position: fixed;
+	position: sticky;
 	bottom: 0;
 	z-index: 10;
 	background-color: var(--main);
